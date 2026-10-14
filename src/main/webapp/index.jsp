@@ -1,5 +1,0 @@
-<html>
-<body>
-<h2>HOLA QUE TAL, HOLA QUE tal. YA LLEGO POR QUIEN LLORABAN HIJOS DE SU PERRA MADRE</h2>
-</body>
-</html>
