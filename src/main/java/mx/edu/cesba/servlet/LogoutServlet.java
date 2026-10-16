@@ -21,7 +21,7 @@ public class LogoutServlet extends HttpServlet {
             sesion.invalidate();
 
         }
-        response.sendRedirect("Login.jsp");
+        response.sendRedirect("login.jsp");
     }
 }
 
