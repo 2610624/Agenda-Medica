@@ -1,3 +1,5 @@
+package mx.com.psicologia.www;
+
 public class Usuario {
     private int id;
     private String usuario;

@@ -1,3 +1,5 @@
+import mx.com.psicologia.www.Conexion;
+
 import java.sql.Connection;
 
 public class PruebaConexion {
